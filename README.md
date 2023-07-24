@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @CheedarPython
+- 🐍 I’m currently learning python
